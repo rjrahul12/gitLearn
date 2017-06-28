@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 this is third file
-=======
-Hello
->>>>>>> f0c9caeb4d461e4721ae8f1199edfb56c7d97cf8
 786
 
